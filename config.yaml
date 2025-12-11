@@ -1,4 +1,4 @@
-baseURL: https://billoes.github.io/hugo-demo/
+baseURL: "https://billoes.github.io/hugo-demo/"
 languageCode: en-us 
 title: Acme Corporation 
 theme: Eclectic 
