@@ -29,17 +29,16 @@ __*We process your information for purposes based on legitimate business interes
 
 We use personal information collected via our Services for a variety of business purposes described below. We process your personal information for these purposes in reliance on our legitimate business interests in order to enter into or perform a contract with you, with your consent, and/or for compliance with our legal obligations. We indicate the specific processing grounds we rely on next to each purpose listed below.
 
-We use the information we collect or Do:
+We use the information we collect or receive:
 
 
 * To protect our Services. We may use your information as part of our efforts to keep our Services safe and secure (for example, for fraud monitoring and prevention).
 
 * To deliver services to the user. We may use your information to provide you with the requested service.
 
-* For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.
 
+* For other Business Purposes. We may use your information for other Business Purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Services, products, marketing and your experience. We may use and store this information in aggregated and anonymized form so that it is not associated with individual end users and does not include personal information. We will not use identifiable personal information without your consent.
 WILL YOUR INFORMATION BE SHARED WITH ANYONE?
----------------------------------------------
 
 We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
@@ -50,8 +49,8 @@ We may process or share data based on the following legal basis:
 * Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.
 
 * Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.
-
 * Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).
+
 
 * Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.
 
@@ -99,7 +98,7 @@ We do not knowingly solicit data from or market to children under 18 years of ag
 WHAT ARE YOUR PRIVACY RIGHTS?
 -----------------------------
 
-In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
+__*In some regions, such as the European Economic Area, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.*__
 
 In some regions (like the European Economic Area), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. To make such a request, please use the contact details provided below. We will consider and act upon any request in accordance with applicable data protection laws.
 
@@ -133,7 +132,7 @@ We may update this privacy notice from time to time. The updated version will be
 HOW CAN YOU CONTACT US ABOUT THIS POLICY?
 ----------------------------------------
 
-If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), DPO Sample, by email at [dpo@exmaple.org](mailto:dpo@exmaple.org), by phone at [(999)999-9999](tel:(999)999-9999), or by post to:
+If you have questions or comments about this policy, you may contact our Data Protection Officer (DPO), DPO Sample, by email at [dpo@exmaple.org](mailto:dpo@exmaple.org), by phone at [(999)999-9999](tel:9999999999), or by post to:
 
 Acme Corporation
 Data Protection Officer
